@@ -1,4 +1,4 @@
-# HCM-KS26-CNTT1_KNFormtingAl_Session01_Ex06
+# HCM-KS26-CNTT1_KNPromtingAl_Session01_Ex06
 BÀI 6: PHÂN TÍCH CƠ CHẾ "TRÀN CỐC NGỮ CẢNH" (TRUNCATION) TRONG LUỒNG TƯ VẤN CSKH
 Phần 1. Giải thích hình tượng chiếc cốc nước
 1.1. Context Window là gì?
